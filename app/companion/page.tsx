@@ -3,7 +3,7 @@
 const CompanionsLibrary = () => {
   return (
     <div>
-      
+      CompanionsLibrary
     </div>
   )
 }
